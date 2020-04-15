@@ -13,6 +13,7 @@ pylint = "*"
 flake8 = "*"
 isort = "*"
 channels-redis = "*"
+selenium = "*"
 
 [requires]
 python_version = "3.7"
